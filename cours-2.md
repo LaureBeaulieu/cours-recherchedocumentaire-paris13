@@ -26,3 +26,10 @@
 
 ## La recherche exploratoire en détail :
 - Source des infos : http://www.infosphere.uqam.ca/rechercher-linformation/etablir-sa-strategie-recherche
+
+## Concevoir une mindmap :
+- Les logiciels possibles :
+  - [MindMeister](https://www.mindmeister.com/fr)
+  - [Coggle](https://coggle.it/)
+  - [FreeMind](http://freemind.sourceforge.net/wiki/index.php/Download)
+  - [Google Drawings](https://docs.google.com/drawings/)
