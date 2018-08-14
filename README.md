@@ -1,6 +1,7 @@
 # Cours de recherche documentaire
 
 > Enseignant : Karl Pineau
+
 > Contact : karl.pineau@utc.fr
 
 ## Liste des séances :
