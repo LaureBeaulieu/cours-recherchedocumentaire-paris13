@@ -1,3 +1,5 @@
+**[Retour au sommaire](README.md)**
+
 # Séance 1 : Source et qualité de l’information
 
 - [Lien vers le support de cours](https://docs.google.com/presentation/d/1jGuagLt0Wy0h72RO3xe6peqa_LRcDscCyDVnSjEv6Cg/edit?usp=sharing)
