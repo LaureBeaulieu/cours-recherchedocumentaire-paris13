@@ -2,7 +2,7 @@
 
 # Séance 1 : Source et qualité de l’information
 
-- [Lien vers le support de cours](https://docs.google.com/presentation/d/1jGuagLt0Wy0h72RO3xe6peqa_LRcDscCyDVnSjEv6Cg/edit?usp=sharing)
+- [Lien vers le support de cours](https://docs.google.com/presentation/d/1C9BsfUr3qJ3ApAFr-m-6fRjo_qYil6wlvEzkH1hnN7M/edit#slide=id.g42051b2b37_2_0)
 
 ## Exercice sur l'article du Point :
 - Lien vers l'article du Point : http://www.lepoint.fr/monde/pour-16-millions-d-americains-le-lait-chocolate-vient-de-vaches-marron-17-06-2017-2136082_24.php
