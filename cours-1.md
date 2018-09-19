@@ -26,10 +26,8 @@
 - [Article d'Acrimed sur Dassault](https://www.acrimed.org/Les-Dassault-fetent-la-vente-du-Rafale)
 - [Infographie des propriétaires de média français](https://www.monde-diplomatique.fr/cartes/PPA)
 
-## Nouvelle grille d'analyse des articles :
-- Fiabilité d’un site : puis-je faire confiance à ce site ?
-- Validité de l’information : l’information proposée par ce site est-elle de qualité ?
-- Pertinence de l’information : répond-elle à la question que je me pose ?
+## Grille d'analyse des articles :
+
 - Qui ?
   - Qui est l’auteur du site ?
   - Peut-on le contacter ?
@@ -46,11 +44,12 @@
   - A quelle date a été publiée l’information ? 
   - A quelle date a-t-elle été mise à jour ?
   - *En cas de recherche d’informations d’actualité, la date de mise à jour influe directement sur sa validité. Si on recherche une définition, la date de mise à jour importe peu.*
-- Pourquoi ?
-  - Quel est l’objectif du site ? (informer, commercialiser des produits, convaincre…)
 - Comment ?
   - L’information est-elle claire ?
   - Les sources sont-elles indiquées ?
+- Pourquoi ?
+  - Quel est l’objectif du site ? (informer, commercialiser des produits, convaincre…)
+
 
 
 
