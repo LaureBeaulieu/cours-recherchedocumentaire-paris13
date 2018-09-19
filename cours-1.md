@@ -6,16 +6,8 @@
 
 ## Exercice sur l'article du Point :
 - Lien vers l'article du Point : http://www.lepoint.fr/monde/pour-16-millions-d-americains-le-lait-chocolate-vient-de-vaches-marron-17-06-2017-2136082_24.php
-- Objectifs du premier travail en groupe : 
-  - Remontez à la source de l’information, le plus précisément possible.
-  - Répondez aux questions :
-    - Qui a publié ces chiffres à l’origine ?
-    - Dans quel contexte ?
-    - Quel est la valeur de ces chiffres ?
-    - Quel a été le parcours médiatique de cette information ?
-  - Répertoriez les informations que vous collectez dans un document :
-    - Les articles qui en parlent, avec leur date, leurs auteurs
-    - Quel article fait référence à quel autre article ?
+    
+- [Vidéo d'analyse del'information du Point](https://youtu.be/nQ3aaPaHCB4)
     
 ## Concevoir un schéma :
 - Les logiciels possibles :
@@ -24,9 +16,8 @@
   - [FreeMind](http://freemind.sourceforge.net/wiki/index.php/Download)
   - [Google Drawings](https://docs.google.com/drawings/)
   
-## Grille d'analyse de la qualité d'une source :
-- [Référentiel de qualité de l’information par le CTREQ](http://www.ctreq.qc.ca/wp-content/uploads/2016/01/2_Qualit%C3%A9-de-linformation.pdf)
-- [Vidéo d'analyse](https://youtu.be/nQ3aaPaHCB4)
+## La qualité d'une source :
+- [Grille d'analyse élaborée par le CTREQ](http://www.ctreq.qc.ca/wp-content/uploads/2016/01/2_Qualit%C3%A9-de-linformation.pdf)
 - Lien vers l'article de Fdesouche sur le fils de Christiane Taubira en prison : http://www.fdesouche.com/406280-christiane-taubira-a-tente-de-faire-annuler-la-condamnation-de-son-fils
 - Lien vers l'article du Monde "Pourquoi certaines figures scientifiques sont climato-sceptiques ?" : http://passeurdesciences.blog.lemonde.fr/2016/12/28/pourquoi-certains-nient-les-resultats-de-la-science/
 
