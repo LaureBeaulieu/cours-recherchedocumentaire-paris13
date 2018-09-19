@@ -37,13 +37,13 @@
   - Est-ce un site personnel, institutionnel, d’une association, collaboratif ?
   - Quelle est la compétence reconnue ?
   - Propose-t-il des liens vers des sites fiables/sont-ils actifs ?
-- Où ?
-  - Quelles sont les limites géographiques de l’information ?
-  - *Si on cherche des informations juridiques, attention de ne pas sélectionner un site belge ou canadien (donc avec une législation différente) !*
 - Quand ?
   - A quelle date a été publiée l’information ? 
   - A quelle date a-t-elle été mise à jour ?
   - *En cas de recherche d’informations d’actualité, la date de mise à jour influe directement sur sa validité. Si on recherche une définition, la date de mise à jour importe peu.*
+- Où ?
+  - Quelles sont les limites géographiques de l’information ?
+  - *Si on cherche des informations juridiques, attention de ne pas sélectionner un site belge ou canadien (donc avec une législation différente) !*
 - Comment ?
   - L’information est-elle claire ?
   - Les sources sont-elles indiquées ?
