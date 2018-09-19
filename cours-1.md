@@ -6,8 +6,8 @@
 
 ## Exercice sur l'article du Point :
 - Lien vers l'article du Point : http://www.lepoint.fr/monde/pour-16-millions-d-americains-le-lait-chocolate-vient-de-vaches-marron-17-06-2017-2136082_24.php
-    
-- [Vidéo d'analyse del'information du Point](https://youtu.be/nQ3aaPaHCB4)
+- [Vidéo d'analyse de l'information du Point](https://youtu.be/nQ3aaPaHCB4)
+- [Grille d'analyse élaborée par le CTREQ](http://www.ctreq.qc.ca/wp-content/uploads/2016/01/2_Qualit%C3%A9-de-linformation.pdf)
     
 ## Concevoir un schéma :
 - Les logiciels possibles :
@@ -16,14 +16,14 @@
   - [FreeMind](http://freemind.sourceforge.net/wiki/index.php/Download)
   - [Google Drawings](https://docs.google.com/drawings/)
   
-## La qualité d'une source :
-- [Grille d'analyse élaborée par le CTREQ](http://www.ctreq.qc.ca/wp-content/uploads/2016/01/2_Qualit%C3%A9-de-linformation.pdf)
+## Le biais de confirmation :
+
 - Lien vers l'article de Fdesouche sur le fils de Christiane Taubira en prison : http://www.fdesouche.com/406280-christiane-taubira-a-tente-de-faire-annuler-la-condamnation-de-son-fils
 - Lien vers l'article du Monde "Pourquoi certaines figures scientifiques sont climato-sceptiques ?" : http://passeurdesciences.blog.lemonde.fr/2016/12/28/pourquoi-certains-nient-les-resultats-de-la-science/
 
-## Kartable
-- Lien vers l'article du Monde sur l'application Kartable : https://lemonde.fr/m-perso/article/2017/01/14/avec-kartable-les-cours-c-est-dans-la-poche_5062616_4497916.html
-- [Article d'Acrimed](https://www.acrimed.org/Dans-Le-Monde-publicite-dissimulee-pour-Kartable)
+## Valeur des sources
+- Lien vers l'article du Figaro sur le Rafale : http://www.lefigaro.fr/societes/2015/02/12/20005-20150212ARTFIG00513-rafale-le-chasseur-ultrapolyvalent-par-excellence.php
+- [Article d'Acrimed sur Dassault](https://www.acrimed.org/Les-Dassault-fetent-la-vente-du-Rafale)
 - [Infographie des propriétaires de média français](https://www.monde-diplomatique.fr/cartes/PPA)
 
 ## Nouvelle grille d'analyse des articles :
