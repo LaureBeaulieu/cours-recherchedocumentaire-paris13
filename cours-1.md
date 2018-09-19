@@ -21,6 +21,9 @@
 - Lien vers l'article de Fdesouche sur le fils de Christiane Taubira en prison : http://www.fdesouche.com/406280-christiane-taubira-a-tente-de-faire-annuler-la-condamnation-de-son-fils
 - Lien vers l'article du Monde "Pourquoi certaines figures scientifiques sont climato-sceptiques ?" : http://passeurdesciences.blog.lemonde.fr/2016/12/28/pourquoi-certains-nient-les-resultats-de-la-science/
 
+## L'art du doute
+- La vidéo de La Tronche en Biais sur la zététique : https://youtu.be/-dr5It4xr98
+
 ## Valeur des sources
 - Lien vers l'article du Figaro sur le Rafale : http://www.lefigaro.fr/societes/2015/02/12/20005-20150212ARTFIG00513-rafale-le-chasseur-ultrapolyvalent-par-excellence.php
 - [Article d'Acrimed sur Dassault](https://www.acrimed.org/Les-Dassault-fetent-la-vente-du-Rafale)
