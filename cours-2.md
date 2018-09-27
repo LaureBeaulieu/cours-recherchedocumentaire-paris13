@@ -2,9 +2,9 @@
 
 # Séance 2 : Recherche documentaire sur le web
 
-- [Lien vers le support de cours](https://docs.google.com/presentation/d/1y6CnCoP53vn3OCxcqpLZ7cmfabKGX3E_fLc2zkVgPIc/edit#slide=id.g2d337df5f9_1_127)
+[Lien vers le support de cours](https://docs.google.com/presentation/d/1y6CnCoP53vn3OCxcqpLZ7cmfabKGX3E_fLc2zkVgPIc/edit#slide=id.g2d337df5f9_1_127)
 
-**- Quizz**
+**Quizz**
 
 Qu'est-ce que le digital labor ? https://www.inaglobal.fr/numerique/article/quest-ce-que-le-digital-labor-8475
 Qu'est-ce que la sérendipité ? https://next.liberation.fr/livres/2014/01/22/le-mythe-de-serendip_974774
