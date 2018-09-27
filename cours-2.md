@@ -2,7 +2,11 @@
 
 # Séance 2 : Recherche documentaire sur le web
 
-- [Lien vers le support de cours](https://docs.google.com/presentation/d/1u6r4A6s8LzOE51u62BNTACGTTCWpkv6VUrFjT6kzR5Y/edit?usp=sharing)
+- [Lien vers le support de cours](https://docs.google.com/presentation/d/1y6CnCoP53vn3OCxcqpLZ7cmfabKGX3E_fLc2zkVgPIc/edit#slide=id.g2d337df5f9_1_127)
+
+-Quizz
+Qu'est-ce que le digital labor ? https://www.inaglobal.fr/numerique/article/quest-ce-que-le-digital-labor-8475
+
 
 ## Les questions qu’il faut se poser avant de se lancer :
 - Quelle est la nature du travail à produire ?
