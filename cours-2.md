@@ -4,8 +4,13 @@
 
 - [Lien vers le support de cours](https://docs.google.com/presentation/d/1y6CnCoP53vn3OCxcqpLZ7cmfabKGX3E_fLc2zkVgPIc/edit#slide=id.g2d337df5f9_1_127)
 
--Quizz
+- Quizz
+
 Qu'est-ce que le digital labor ? https://www.inaglobal.fr/numerique/article/quest-ce-que-le-digital-labor-8475
+Qu'est-ce que la sérendipité ? https://next.liberation.fr/livres/2014/01/22/le-mythe-de-serendip_974774
+Qu'est-ce que l'économie de l'attention ? https://lejournal.cnrs.fr/articles/lattention-un-bien-precieux
+
+A lire : How technology disrupted the truth ? Katharine Viner, The Guardian, july 2016 https://www.theguardian.com/media/2016/jul/12/how-technology-disrupted-the-truth
 
 
 ## Les questions qu’il faut se poser avant de se lancer :
