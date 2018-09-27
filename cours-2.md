@@ -4,7 +4,7 @@
 
 - [Lien vers le support de cours](https://docs.google.com/presentation/d/1y6CnCoP53vn3OCxcqpLZ7cmfabKGX3E_fLc2zkVgPIc/edit#slide=id.g2d337df5f9_1_127)
 
-- Quizz
+**- Quizz**
 
 Qu'est-ce que le digital labor ? https://www.inaglobal.fr/numerique/article/quest-ce-que-le-digital-labor-8475
 Qu'est-ce que la sérendipité ? https://next.liberation.fr/livres/2014/01/22/le-mythe-de-serendip_974774
@@ -15,7 +15,7 @@ A lire : How technology disrupted the truth ? Katharine Viner, The Guardian, jul
 - C'est quoi une recherche documentaire ?
 https://bu.univ-avignon.fr/wp-content/uploads/2013/08/Methodo_documentaire.pdf
 
-## Les questions qu’il faut se poser avant de se lancer :
+## (1) Définir le but de la recherche
 - Quelle est la nature du travail à produire ?
   - Exposé, mémoire, article, rapport d'étude, etc.
 - Quel est le niveau attendu de l’information ?
@@ -27,7 +27,12 @@ https://bu.univ-avignon.fr/wp-content/uploads/2013/08/Methodo_documentaire.pdf
 - Quel est le degré d’actualité de l’information recherchée ?
   - Des documents d'archives aux derniers résultats connus de la recherche...
 
-## La méthode QQQOCP : 
+## Les différents web
+- Le Ted Talk de Tim Berners Lee en 2009 : https://www.ted.com/talks/tim_berners_lee_on_the_next_web
+
+## (2) La recherche exploratoire 
+
+**La méthode QQQOCP :** 
 - Qui ? = Quels sont les acteurs, les personnes impliquées ? 
 - Quoi ? = Quels sont les aspects qui m'intéressent ? 
 - Quand ? = Quelle est la période concernée ? 
@@ -35,8 +40,7 @@ https://bu.univ-avignon.fr/wp-content/uploads/2013/08/Methodo_documentaire.pdf
 - Comment ? = Quelles approches ou points de vue faut-il considérer ? (historique, sociologique, économique, politique, etc.) 
 - Pourquoi ? = Quelle est l'importance du sujet dans le contexte actuel ?
 
-## La recherche exploratoire en détail :
-- Source des infos : http://www.infosphere.uqam.ca/rechercher-linformation/etablir-sa-strategie-recherche
+**Source des infos :** http://www.infosphere.uqam.ca/rechercher-linformation/etablir-sa-strategie-recherche
 
 ## Concevoir une mindmap :
 - Les logiciels possibles :
