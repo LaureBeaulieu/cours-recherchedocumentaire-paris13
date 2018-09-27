@@ -12,6 +12,8 @@ Qu'est-ce que l'économie de l'attention ? https://lejournal.cnrs.fr/articles/la
 
 A lire : How technology disrupted the truth ? Katharine Viner, The Guardian, july 2016 https://www.theguardian.com/media/2016/jul/12/how-technology-disrupted-the-truth
 
+- C'est quoi une recherche documentaire ?
+https://bu.univ-avignon.fr/wp-content/uploads/2013/08/Methodo_documentaire.pdf
 
 ## Les questions qu’il faut se poser avant de se lancer :
 - Quelle est la nature du travail à produire ?
