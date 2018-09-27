@@ -12,10 +12,10 @@ Qu'est-ce que l'économie de l'attention ? https://lejournal.cnrs.fr/articles/la
 
 A lire : How technology disrupted the truth ? Katharine Viner, The Guardian, july 2016 https://www.theguardian.com/media/2016/jul/12/how-technology-disrupted-the-truth
 
-- C'est quoi une recherche documentaire ?
+**C'est quoi une recherche documentaire ?**
 https://bu.univ-avignon.fr/wp-content/uploads/2013/08/Methodo_documentaire.pdf
 
-## (1) Définir le but de la recherche
+## Définir le but de la recherche
 - Quelle est la nature du travail à produire ?
   - Exposé, mémoire, article, rapport d'étude, etc.
 - Quel est le niveau attendu de l’information ?
@@ -28,9 +28,9 @@ https://bu.univ-avignon.fr/wp-content/uploads/2013/08/Methodo_documentaire.pdf
   - Des documents d'archives aux derniers résultats connus de la recherche...
 
 ## Les différents web
-- Le Ted Talk de Tim Berners Lee en 2009 : https://www.ted.com/talks/tim_berners_lee_on_the_next_web
+Le Ted Talk de Tim Berners Lee en 2009 : https://www.ted.com/talks/tim_berners_lee_on_the_next_web
 
-## (2) La recherche exploratoire 
+## Phase 1 : La recherche exploratoire 
 
 **La méthode QQQOCP :** 
 - Qui ? = Quels sont les acteurs, les personnes impliquées ? 
