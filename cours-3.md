@@ -4,6 +4,9 @@
 
 [Lien vers le support de cours](https://docs.google.com/presentation/d/13Jw0MdgpG2hqXm_6KBd5OFT4NWhJaqryo0IaTA-f4lE/edit#slide=id.p)
 
+
+## Les types de ressources
+
 **Catalogue de bibliothèques**
 
 http://catalogue.bnf.fr
