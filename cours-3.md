@@ -4,13 +4,17 @@
 
 [Lien vers le support de cours](https://docs.google.com/presentation/d/13Jw0MdgpG2hqXm_6KBd5OFT4NWhJaqryo0IaTA-f4lE/edit#slide=id.p)
 
-**Quizz**
+**Catalogue de bibliothèques**
 
-Qu'est-ce que le digital labor ? https://www.inaglobal.fr/numerique/article/quest-ce-que-le-digital-labor-8475
-Qu'est-ce que la sérendipité ? https://next.liberation.fr/livres/2014/01/22/le-mythe-de-serendip_974774
-Qu'est-ce que l'économie de l'attention ? https://lejournal.cnrs.fr/articles/lattention-un-bien-precieux
+http://catalogue.bnf.fr
+https://bibliotheques.paris.fr/Default/form.aspx?SC=CATALOGUE
 
-A lire : How technology disrupted the truth ? Katharine Viner, The Guardian, july 2016 https://www.theguardian.com/media/2016/jul/12/how-technology-disrupted-the-truth
+**Moteurs de recherche spécialisés**
+
+http://scholar.google.fr/
+http://books.google.fr/
+http://www.rechercheisidore.fr/
+http://www.theses.fr/
 
 **C'est quoi une recherche documentaire ?**
 https://bu.univ-avignon.fr/wp-content/uploads/2013/08/Methodo_documentaire.pdf
