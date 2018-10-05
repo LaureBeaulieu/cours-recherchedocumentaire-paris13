@@ -32,6 +32,17 @@ https://www.youtube.com/watch?v=xnrNSR6x7Q4
 
 ## Matérialiser votre projet
 
-s
+Powerpoint online https://office.live.com/start/PowerPoint.aspx
+
+Prezi https://prezi.com/
+
+Wordpress https://fr.wordpress.com/
+
+**Concevoir une mindmap :**
+Les logiciels possibles :
+  - [MindMeister](https://www.mindmeister.com/fr)
+  - [Coggle](https://coggle.it/)
+  - [FreeMind](http://freemind.sourceforge.net/wiki/index.php/Download)
+  - [Google Drawings](https://docs.google.com/drawings/)
 
 
