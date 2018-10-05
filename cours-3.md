@@ -7,13 +7,17 @@
 **Catalogue de bibliothèques**
 
 http://catalogue.bnf.fr
+
 https://bibliotheques.paris.fr/Default/form.aspx?SC=CATALOGUE
 
 **Moteurs de recherche spécialisés**
 
 http://scholar.google.fr/
+
 http://books.google.fr/
+
 http://www.rechercheisidore.fr/
+
 http://www.theses.fr/
 
 **C'est quoi une recherche documentaire ?**
