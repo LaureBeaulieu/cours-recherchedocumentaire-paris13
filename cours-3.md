@@ -24,7 +24,7 @@ http://www.theses.fr/
 
 http://www.legifrance.gouv.fr/
 
-**Correction exercice sérendipité**
+**Exercice sérendipité**
 
 https://www.youtube.com/watch?v=xnrNSR6x7Q4
 
