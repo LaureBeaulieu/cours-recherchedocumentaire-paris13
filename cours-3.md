@@ -20,8 +20,14 @@ http://www.rechercheisidore.fr/
 
 http://www.theses.fr/
 
-**C'est quoi une recherche documentaire ?**
-https://bu.univ-avignon.fr/wp-content/uploads/2013/08/Methodo_documentaire.pdf
+**Des portails thématiques sur le web**
+
+http://www.legifrance.gouv.fr/
+
+**Correction exercice sérendipité**
+
+https://www.youtube.com/watch?v=xnrNSR6x7Q4
+
 
 ## Définir le but de la recherche
 - Quelle est la nature du travail à produire ?
