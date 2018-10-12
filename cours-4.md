@@ -2,7 +2,7 @@
 
 # Séance 4 : Citer une source
 
-- [Lien vers le support de cours](https://docs.google.com/presentation/d/161vQD_NHUXFeXXORTWd2KDtDFsGfGfURbziZOWiBP2Y/edit?usp=sharing)
+- [Lien vers le support de cours](https://docs.google.com/presentation/d/1LNczewTfeTDF3lUB99IzgzpKgC8edS8eeves3yid13o/edit#slide=id.p)
 
 ## Citer & sourcer :
 - Citer selon les normes de l'APA : http://guides.bib.umontreal.ca/disciplines/20-Citer-selon-les-normes-de-l-APA?tab=108
