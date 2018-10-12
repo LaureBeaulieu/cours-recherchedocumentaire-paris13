@@ -11,5 +11,7 @@
   - https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2459057
   - https://www.youtube.com/watch?v=nQ3aaPaHCB4
 
-## Zotéro : 
+## Zotero et Zoterobib : 
 - https://www.zotero.org/
+- https://zbib.org/
+- Tutoriel pour Zotero et Zoterobib : http://www.biusante.parisdescartes.fr/ressources/pdf/zotero-tutoriel-biusante.pdf
